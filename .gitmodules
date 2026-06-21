@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-erudite"]
+	path = themes/hugo-theme-erudite
+	url = https://github.com/Fabshkiee/hugo-theme-erudite.git
