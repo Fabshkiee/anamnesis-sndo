@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Anamnesis</h1>
 <div align="center">
-  <img src="static/anamnesis.svg" alt="Anamnesis Logo" width="150">
+  <img src="static/anamnesis.svg" alt="Anamnesis Logo" width="150" style="filter: invert(1);">
   <br>
   <em>Anamnesis is my personal blog built with <a href="https://gohugo.io">Hugo</a>. As a forgetful person, it serves as my digital notebook<br>to share thoughts, projects, and stories I want to remember</em>
 </div>
